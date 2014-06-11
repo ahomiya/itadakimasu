@@ -1,8 +1,10 @@
-# [itadakimasu](https://github.com/ahomiya/itadakimasu)
+# [Itadakimasu](https://github.com/ahomiya/itadakimasu)
 
-いただきます (itadakimasu) means “Let's eat!”. This is something Japanese people say before they begin eating.
+[![Omuraisu](https://raw.githubusercontent.com/ahomiya/itadakimasu/master/doc/img/itadakimasu.png)](https://github.com/ahomiya/itadakimasu)
 
-いただきます (itadakimasu) is a set of small, responsive SASS modules that can be used in every web & app project.
+いただきます (Itadakimasu) means “Let's eat!”. This is something Japanese people say before they begin eating. [Web Japan](http://web-japan.org/kidsweb/language/quickjapanese/quickjapanese09.html)
+
+いただきます (Itadakimasu) is a set of small, responsive SASS modules that can be used in every web & app project.
 
 This project is maintained and funded by [ahomiya.com](http://www.ahomiya.com) in Chiang Mai, Thailand.
 
